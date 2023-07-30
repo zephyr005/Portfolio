@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    color: rgb(7, 51, 14);
+    background-color: rgb(188, 241, 122);
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.about h1,h2{
+    text-align: center;
+    text-shadow: 1px 1px 1px
+}
+
+.about p{
+    padding: 10px 50px 0px 50px;
+    text-align:justify;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 40px;
+    /* text-indent: 70px; */
+}
+
+.about h1{
+    background-color: rgb(5, 31, 5);
+    color: rgb(117, 234, 117);
+    padding: 10px;
+    position: sticky;
+    margin-bottom: 20px;
+}
